@@ -8,6 +8,6 @@
 \country: "Netherlands/Canada",
 \since: "2009",
 \helpdoc: "RecordMyDesktop.html",
-\ext_dependancy: "recordmydesktop",
+\ext_dependency: "recordmydesktop",
 \url: "http://www.nescivi.nl"
 )
